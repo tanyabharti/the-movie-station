@@ -19,8 +19,8 @@ Added a search bar using streamlit framework which fetches movies from TDMB API 
 - Heroku
 
 # Dataset and Pickle Files
-> [Dataset Link ](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-> [Pickle Files](https://drive.google.com/drive/folders/1oJYsA0vpcQpmO32fBS64zbkfRkyNQTpu?usp=sharing)
+- > [Dataset Link ](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+- > [Pickle Files](https://drive.google.com/drive/folders/1oJYsA0vpcQpmO32fBS64zbkfRkyNQTpu?usp=sharing)
 
 ## Project Link : https://movie-station-app.herokuapp.com/
 
