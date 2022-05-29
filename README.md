@@ -26,6 +26,8 @@ Added a search bar using streamlit framework which fetches movies from TMDB API 
 
 ## Project Link : https://movie-station-app.herokuapp.com/
 
+## Presentation : [Link](https://docs.google.com/presentation/d/1CLuzEU7_ewfI1Kwu3QDKWwUPbKPXV5JmyAq2owPdRSY/edit?usp=sharing)
+
 
 # Installation
 - Clone or download this repository in your local machine
