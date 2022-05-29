@@ -13,12 +13,12 @@ This project is built as a submission for Microsoft Engage Program 2022
 Added a search bar using streamlit framework which fetches movies from TDMB API and provide top suggestions to user to watch similar kind of movies which he may like.
 
 #  Technologies and Libraries used
-*Python
-*Jupter Notebook
-*Numpy
-*Pandas
-*Streamlit
-*Sci-lit Learn 
-*Heroku
+1 )Python
+2)Jupter Notebook
+3)Numpy
+4)Pandas
+5)Streamlit
+6)scikit-learn
+7)Heroku
 
 
