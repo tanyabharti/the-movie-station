@@ -9,7 +9,7 @@ This project is built as a submission for Microsoft Engage Program 2022
 # Project Link : https://movie-station-app.herokuapp.com/
 
  
-## Feature Implemented
+# Feature Implemented
 Added a search bar using streamlit framework which fetches movies from TDMB API and provide top suggestions to user to watch similar kind of movies which he may like.
 
 #  Technologies and Libraries used
