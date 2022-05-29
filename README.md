@@ -2,7 +2,7 @@
 
 This project is built as a submission for Microsoft Engage Program 2022
  
- A content based movie recommendation system which recommends similar movies to user based on his search and interest.
+ A content based movie recommendation system which recommends similar movies to user based on his search .
  Implemented using KNN Model and cosine similarity.
  Deployment done on Heroku.
 
